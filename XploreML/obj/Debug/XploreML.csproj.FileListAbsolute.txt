@@ -1,0 +1,17 @@
+C:\Users\mh36577\source\repos\XploreML\XploreML\bin\Debug\XploreML.exe.config
+C:\Users\mh36577\source\repos\XploreML\XploreML\bin\Debug\XploreML.exe
+C:\Users\mh36577\source\repos\XploreML\XploreML\bin\Debug\XploreML.pdb
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.csprojAssemblyReference.cache
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.frm_FileSelection.resources
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.Properties.Resources.resources
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.csproj.GenerateResource.cache
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.exe
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.pdb
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.frm_Search.resources
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.Result.resources
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.Result_cur.resources
+C:\Users\mh36577\source\repos\XploreML\XploreML\bin\Debug\XploreML.exe.manifest
+C:\Users\mh36577\source\repos\XploreML\XploreML\bin\Debug\XploreML.application
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.TrustInfo.xml
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.exe.manifest
+C:\Users\mh36577\source\repos\XploreML\XploreML\obj\Debug\XploreML.application

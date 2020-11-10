@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="XploreML.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+    <userSettings>
+        <XploreML.Properties.Settings>
+            <setting name="LiveXMLsetting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="LiveTABsetting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ds1Namesetting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ds2Namesetting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ds3Namesetting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="XML1setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="XML2setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="XML3setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="TAB1setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="TAB2setting" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="TAB3setting" serializeAs="String">
+                <value />
+            </setting>
+        </XploreML.Properties.Settings>
+    </userSettings>
+</configuration>
